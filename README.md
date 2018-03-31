@@ -1,5 +1,5 @@
-# portfolio
-A collection of small challenges that I did in the past
+# Сhallenges
+Collection of a noteworthy challenges that I did in the past.
 
 ### Market Matching
 https://github.com/aafa/matching
